@@ -253,6 +253,12 @@ a:active {
     padding-top: 94px;
     padding-bottom: 94px;
 }
+
+.advantages{padding-top: 94px;
+    padding-bottom: 0px;
+
+
+}
 .sekcja1{
     text-decoration: none;
     display: flex;
