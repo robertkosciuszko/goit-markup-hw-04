@@ -222,9 +222,7 @@ body {
     list-style-type: none;
     text-decoration: none;
     display: flex;
-    justify-content: space-between;
     gap: 30px;
-    align-items: center;
     margin: 0;
     padding: 0px;
 }
@@ -374,12 +372,8 @@ h1{
     text-decoration: none;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
     padding: 0 15px;
     margin: 0 auto;
-    max-width: 1200px;
     gap: 30px;
     }
 
@@ -638,3 +632,10 @@ background-color: var(--background-grey);
     
 }
 .contact:hover svg{fill:var(--main-blue)}
+
+.stylepicture{
+
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
